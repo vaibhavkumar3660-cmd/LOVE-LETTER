@@ -40,7 +40,7 @@ const LOVE_LETTER_CONFIG = {
     },
     {
       title: "Chapter II: The Little Things",
-      text: "It isn't just the big milestone days that make me fall in love with you over and over again. It’s the quiet little things — the sound of your laugh when something genuinely tickles you, the way you tuck your hair behind your ear, and how simply sitting beside you makes any chaotic day feel peaceful.",
+      text: "It isn't just the big milestone days that make me fall in love with you over and over again. It’s the quiet little things — the sound of your laugh when something genuinely tickles you, the way you tuck your hair behind your ear, and how simply talking to you makes any chaotic day feel peaceful.",
       question: {
         prompt: "If I had to choose, what do you think is my favorite thing about you?",
         options: [
@@ -53,7 +53,7 @@ const LOVE_LETTER_CONFIG = {
     },
     {
       title: "Chapter III: The Measure of My Love",
-      text: "Sometimes I catch myself just staring at you, wondering how I got so incredibly lucky. In a universe so vast and full of billions of people, somehow, the stars aligned and brought me to you. You are my safe harbor, my favorite adventure, and my best friend.",
+      text: "Sometimes I catch myself just staring at you, wondering how I got so incredibly lucky. In a universe so vast and full of billions of people, somehow, the stars aligned and brought me to you. You are my safe harbor, my favorite adventure, and my cutie pie.",
       question: {
         type: "slider",
         prompt: "On a scale of 1 to Infinity, how much do you think you mean to me?",
